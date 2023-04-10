@@ -1,4 +1,4 @@
-# sstock-market-
+# stock-market
 In this assignment you are to simulate a simple stock market. There will be 4 different stocks that can be bought:
 1. Facebook ($180)
 2. Google ($1285)
